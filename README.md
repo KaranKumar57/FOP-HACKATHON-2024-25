@@ -1,4 +1,4 @@
-# FOP Hackathon Project
+# FOP Hackathon 2024-2025
 
 This repository contains the project files for the **FOP Hackathon**, where we developed solutions to programming challenges in C.
 
